@@ -1,0 +1,22 @@
+_repo: Reminiscences-of-the-Nineteenth-Massachusetts-regiment_49014
+creator:
+  author:
+    agent_name: Adams, John G. B. (John Gregory Bishop)
+    birthdate: 1841
+    deathdate: 1900
+    gutenberg_agent_id: '45092'
+    url: http://www.gutenberg.org/2009/agents/45092
+    wikipedia: http://en.wikipedia.org/wiki/John_G._B._Adams
+description: ''
+gutenberg_issued: '2015-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+title: Reminiscences of the Nineteenth Massachusetts regiment
+url: http://www.gutenberg.org/ebooks/49014
