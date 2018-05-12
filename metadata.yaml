@@ -1,4 +1,8 @@
 _repo: Reminiscences-of-the-Nineteenth-Massachusetts-regiment_49014
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49014-h/images/cover.jpg
 creator:
   author:
     agent_name: Adams, John G. B. (John Gregory Bishop)
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45092
     wikipedia: http://en.wikipedia.org/wiki/John_G._B._Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49014#Reminiscences-of-the-Nineteenth-Massachusetts-regiment
 gutenberg_issued: '2015-05-21'
 gutenberg_type: Text
 identifiers:
